@@ -19,10 +19,10 @@ function Order() {
           <img src={musicicon} alt='icon music' />
           <p><span className='period'>Annual Plan</span><br/>
           <span className='cost'>$ {cost}/year</span></p>
-          <a href="">Change</a>
+          <a href="francistocino.com">Change</a>
         </div>
         <button className='button'>Proceed to Payment</button>
-        <a className='foot' href="">{foottext}</a>
+        <a className='foot' href="francistocino.com">{foottext}</a>
       </div>
     </>
   )
