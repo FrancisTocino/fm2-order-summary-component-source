@@ -1,5 +1,5 @@
 
-# Order Summary made in REact 
+# Order Summary made in React.js
 ## FrontEnd Mentor Challenger
 
 This exercise is the continuation of my training in component layout in React.js. 
